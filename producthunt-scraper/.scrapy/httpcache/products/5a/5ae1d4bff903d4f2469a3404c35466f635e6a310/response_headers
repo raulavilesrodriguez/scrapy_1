@@ -1,0 +1,40 @@
+Date: Thu, 20 Apr 2023 15:35:24 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 42
+X-Sorting-Hat-Shopid: 19919591
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=254ae14a-27fa-445e-8d83-6f77efcb3b3d; path=/; expires=Thu, 20 Apr 2023 16:05:24 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Sat, 20 Apr 2024 15:35:24 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=GB; path=/; expires=Sat, 20 Apr 2024 15:35:24 GMT
+Set-Cookie: cart_currency=GBP; path=/; expires=Thu, 04 May 2023 15:35:24 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22GB%22%2C%22sale_of_data_region%22%3Afalse%7D; domain=chocolate.co.uk; path=/; expires=Fri, 21 Apr 2023 15:35:24 GMT; SameSite=Lax
+Set-Cookie: _y=b18ed842-0df7-4fbc-8160-919dba901297; Expires=Fri, 19-Apr-24 15:35:24 GMT; Domain=chocolate.co.uk; Path=/; SameSite=Lax
+Set-Cookie: _s=416691a1-4573-429c-a067-e61d3dbf6090; Expires=Thu, 20-Apr-23 16:05:24 GMT; Domain=chocolate.co.uk; Path=/; SameSite=Lax
+Set-Cookie: _shopify_y=b18ed842-0df7-4fbc-8160-919dba901297; Expires=Fri, 19-Apr-24 15:35:24 GMT; Domain=chocolate.co.uk; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=416691a1-4573-429c-a067-e61d3dbf6090; Expires=Thu, 20-Apr-23 16:05:24 GMT; Domain=chocolate.co.uk; Path=/; SameSite=Lax
+Etag: "cacheable:6f895e8d5ae22f234e69500278bf40ab"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 19919591
+X-Shardid: 42
+Vary: Accept
+Content-Language: en
+Server-Timing: processing;dur=19, db;dur=8, asn;desc="28006", edge;desc="MIA", country;desc="EC", theme;desc="Focal", pageType;desc="collection"
+Server-Timing: cfRequestDuration;dur=55.999994
+X-Shopify-Stage: production
+X-Dc: gcp-us-east1,gcp-us-east1,gcp-us-east1
+X-Request-Id: 5fea745e-3a1a-497a-a6fa-30631768a0ee
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=HnuTwuauSeB2nv0aAnyYYu0bRtC770NS3ASA6rStJ8XfWxIvWQZiEAf%2Fnyfcd%2F%2BZi35NHwM8SQfZPL7evFy8nJJ%2FlojCs9RsRuS%2F%2Fs6sGHgNt0btY6T%2B1%2FPEorvFwAZwlpT3N4c%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 7bae74f8fd51ef22-MIA
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
